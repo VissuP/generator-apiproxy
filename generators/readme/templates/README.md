@@ -154,7 +154,7 @@ The latest version of `<%= projectName %>` is `v<%= version %>`. View the [CHANG
 
 ## Contributing to `<%= projectName %>`
 
-:family: We welcome contributors and pull requests. Check out the guidelines for [contributing to `<%= projectName %>`][contributing-url] and our [Contributor Covenant Code of Conduct][code-of-conduct-url].
+[![PRs Welcome][makeapullrequest-image]][makeapullrequest-url]  We welcome contributors and pull requests. Check out the guidelines for [contributing to `<%= projectName %>`][contributing-url] and our [Contributor Covenant Code of Conduct][code-of-conduct-url].
 
 Contributions are stories with a beginning, a middle, and an end, all told through issues, comments, and pull requests.
 
